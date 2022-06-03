@@ -1,8 +1,9 @@
-# Bot-Instagram-Curtidas
-1.0
-# Bot para o instagram com interface gráfica
+# Bot-Instagram-Curtidas v1.0
+# 1.0
 
-# Dados de login solicitados pelo APP para abrir o chrome e em seguida começar o processo
+ Bot para o instagram com interface gráfica
 
-# Após abrir o chrome o sistema dará 30 segundos de espera para o caso do usuário possuir verificação em duas etapas
+ Dados de login solicitados pelo APP para abrir o chrome e em seguida começar o processo
+
+ Após abrir o chrome o sistema dará 30 segundos de espera para o caso do usuário possuir verificação em duas etapas
 
