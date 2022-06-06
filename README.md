@@ -1,5 +1,5 @@
-# Bot-Instagram-Curtidas v1.0
-# 1.0
+# Bot-Instagram-Curtidas v1.1
+# 1.1
 
  Bot para o instagram com interface gráfica
 
